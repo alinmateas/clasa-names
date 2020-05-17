@@ -1,0 +1,11 @@
+C:\Users\ALIN\source\repos\Names\bin\Debug\netcoreapp3.0\Names.exe
+C:\Users\ALIN\source\repos\Names\bin\Debug\netcoreapp3.0\Names.deps.json
+C:\Users\ALIN\source\repos\Names\bin\Debug\netcoreapp3.0\Names.runtimeconfig.json
+C:\Users\ALIN\source\repos\Names\bin\Debug\netcoreapp3.0\Names.runtimeconfig.dev.json
+C:\Users\ALIN\source\repos\Names\bin\Debug\netcoreapp3.0\Names.dll
+C:\Users\ALIN\source\repos\Names\bin\Debug\netcoreapp3.0\Names.pdb
+C:\Users\ALIN\source\repos\Names\obj\Debug\netcoreapp3.0\Names.csprojAssemblyReference.cache
+C:\Users\ALIN\source\repos\Names\obj\Debug\netcoreapp3.0\Names.AssemblyInfoInputs.cache
+C:\Users\ALIN\source\repos\Names\obj\Debug\netcoreapp3.0\Names.AssemblyInfo.cs
+C:\Users\ALIN\source\repos\Names\obj\Debug\netcoreapp3.0\Names.dll
+C:\Users\ALIN\source\repos\Names\obj\Debug\netcoreapp3.0\Names.pdb
